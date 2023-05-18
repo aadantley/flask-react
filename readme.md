@@ -30,4 +30,3 @@ A simple flask API connected to a React.js front-end. Based on: <https://www.you
 ## To Dos
 
 - investigate how to set up `proxy` API endpoint for requests and fetching data.
--  for some reason, the react app creates a git repository of its own, that 
